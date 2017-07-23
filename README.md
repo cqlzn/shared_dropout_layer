@@ -9,7 +9,7 @@ shared_dropout_layer is used in Siamese Net. If 2 dropout layers are used in dif
 
 (3) Rebuild your Caffe.  
 
-(4) Now, use your shared_dropout_layer according to the folloing way:
+(4) Now, use your shared_dropout_layer according to the following way:
 ```
 layer {
   name: "shareddrop"
